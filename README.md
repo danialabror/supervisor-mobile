@@ -1,6 +1,6 @@
-# learn_flutter
+# supervisor-mobile
 
-A new Flutter application.
+A mobile version of supervisor-App 
 
 ## Getting Started
 
